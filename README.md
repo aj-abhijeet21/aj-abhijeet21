@@ -1,13 +1,8 @@
-<h2 align="left">Hi 👋! My name is Abhijeet and I'm a Frontend Enthusiast, from India</h2>
+<h2 align="left">Hi 👋! I'm Abhijeet, a Frontend Enthusiast from India.</h2>
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<p align="left">👋 Hi there! I'm Abhijeet, a passionate Frontend Engineer specializing in <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b>. With over five years in the industry, I've focused on building scalable, user-friendly interfaces and optimizing front-end component libraries. Currently diving deep into <b>monorepo management</b> and <b>design systems</b> to support large, collaborative projects. I love working on open-source and contributing to the dev community. When I’m not coding, I’m usually exploring nature trails or experimenting with new CSS tricks.</p>
+<p align="left">A passionate Frontend Engineer specializing in <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. With over five years in the industry, I've focused on building scalable, user-friendly interfaces and optimizing front-end component libraries. Currently diving deep into <strong>monorepo management</strong> and <strong>design systems</strong> to support large, collaborative projects. I love working on open-source and contributing to the dev community. When I’m not coding, I’m usually exploring nature trails or experimenting with new CSS tricks.</p>
 
 ###
 
