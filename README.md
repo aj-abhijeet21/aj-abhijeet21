@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Abhijeet, a passionate Frontend Engineer specializing in React, Next.js, and TypeScript. With over five years in the industry, I've focused on building scalable, user-friendly interfaces and optimizing front-end component libraries. Currently diving deep into monorepo management and design systems to support large, collaborative projects. I love working on open-source and contributing to the dev community. When I’m not coding, I’m usually exploring nature trails or experimenting with new CSS tricks.<br><br>Let's connect!</p>
+<p align="left">👋 Hi there! I'm Abhijeet, a passionate Frontend Engineer specializing in <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b>. With over five years in the industry, I've focused on building scalable, user-friendly interfaces and optimizing front-end component libraries. Currently diving deep into <b>monorepo management</b> and <b>design systems</b> to support large, collaborative projects. I love working on open-source and contributing to the dev community. When I’m not coding, I’m usually exploring nature trails or experimenting with new CSS tricks.</p>
 
 ###
 
@@ -51,9 +51,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+Let's connect!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aj-abhijeet21/" target="_blank">
